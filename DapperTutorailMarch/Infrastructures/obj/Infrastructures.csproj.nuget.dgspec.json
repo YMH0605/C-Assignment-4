@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yuminghao/Projects/DapperTutorailMarch/Infrastructures/Infrastructures.csproj": {}
+  },
+  "projects": {
+    "/Users/yuminghao/Projects/DapperTutorailMarch/ApplicationCore/ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yuminghao/Projects/DapperTutorailMarch/ApplicationCore/ApplicationCore.csproj",
+        "projectName": "ApplicationCore",
+        "projectPath": "/Users/yuminghao/Projects/DapperTutorailMarch/ApplicationCore/ApplicationCore.csproj",
+        "packagesPath": "/Users/yuminghao/.nuget/packages/",
+        "outputPath": "/Users/yuminghao/Projects/DapperTutorailMarch/ApplicationCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yuminghao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yuminghao/Projects/DapperTutorailMarch/DapperTutorailMarch/DapperTutorailMarch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yuminghao/Projects/DapperTutorailMarch/DapperTutorailMarch/DapperTutorailMarch.csproj",
+        "projectName": "DapperTutorailMarch",
+        "projectPath": "/Users/yuminghao/Projects/DapperTutorailMarch/DapperTutorailMarch/DapperTutorailMarch.csproj",
+        "packagesPath": "/Users/yuminghao/.nuget/packages/",
+        "outputPath": "/Users/yuminghao/Projects/DapperTutorailMarch/DapperTutorailMarch/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yuminghao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/yuminghao/Projects/DapperTutorailMarch/ApplicationCore/ApplicationCore.csproj": {
+                "projectPath": "/Users/yuminghao/Projects/DapperTutorailMarch/ApplicationCore/ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yuminghao/Projects/DapperTutorailMarch/Infrastructures/Infrastructures.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yuminghao/Projects/DapperTutorailMarch/Infrastructures/Infrastructures.csproj",
+        "projectName": "Infrastructures",
+        "projectPath": "/Users/yuminghao/Projects/DapperTutorailMarch/Infrastructures/Infrastructures.csproj",
+        "packagesPath": "/Users/yuminghao/.nuget/packages/",
+        "outputPath": "/Users/yuminghao/Projects/DapperTutorailMarch/Infrastructures/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yuminghao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/yuminghao/Projects/DapperTutorailMarch/ApplicationCore/ApplicationCore.csproj": {
+                "projectPath": "/Users/yuminghao/Projects/DapperTutorailMarch/ApplicationCore/ApplicationCore.csproj"
+              },
+              "/Users/yuminghao/Projects/DapperTutorailMarch/DapperTutorailMarch/DapperTutorailMarch.csproj": {
+                "projectPath": "/Users/yuminghao/Projects/DapperTutorailMarch/DapperTutorailMarch/DapperTutorailMarch.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

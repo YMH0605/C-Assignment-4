@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{593A2936-27A9-46C3-ACEA-1B41908F74D3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApplicationCore/Contracts/Repositories/IRepository.cs">
+    <Files>
+      <File FileName="DapperTutorailMarch/Program.cs" Line="23" Column="28" />
+      <File FileName="ApplicationCore/Entities/Employee.cs" Line="22" Column="1" />
+      <File FileName="ApplicationCore/Entities/Department.cs" Line="1" Column="1" />
+      <File FileName="ApplicationCore/Contracts/Repositories/IRepository.cs" Line="18" Column="1" />
+      <File FileName="Infrastructure/Repositories/DepartmentRepository.cs" Line="61" Column="2" />
+      <File FileName="Infrastructure/Repositories/EmployeeRepository.cs" Line="20" Column="17" />
+      <File FileName="Infrastructure/Data/DapperDbContext.cs" Line="25" Column="4" />
+      <File FileName="Infrastructure/Services/DepartmentService.cs" Line="14" Column="1" />
+      <File FileName="Infra/Program.cs" />
+      <File FileName="Infrastructure/Services/EmployeeService.cs" Line="35" Column="44" />
+      <File FileName="DapperTutorailMarch/Menu/Menu.cs" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DapperTutorailMarch" expanded="True">
+            <Node name="ApplicationCore" expanded="True">
+              <Node name="Contracts" expanded="True">
+                <Node name="Repositories" expanded="True">
+                  <Node name="IRepository.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="DapperTutorailMarch" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Menu" expanded="True" />
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DapperTutorailMarch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
